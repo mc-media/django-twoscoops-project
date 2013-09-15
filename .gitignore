@@ -16,3 +16,6 @@ build
 
 # Logs:
 *.log
+
+# Project's virtual python environnement
+python-env/
